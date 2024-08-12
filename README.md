@@ -1,6 +1,5 @@
 # Java
 
-# تاسك الحساب البنكى عملته واتقيمت عليه فى المعمل
 
  String is a Program that find and print the `Character` whose `ASCII` value will get entered by user at run time.
 
